@@ -9,9 +9,10 @@ A Python script to scrape event details from various B2B event websites and save
 
 ## Setup Instructions
 
-### 1. Navigate to the project directory
+### 1. Clone the Repository
 
 ```sh
+git clone https://github.com/bit-web24/b2b-event-scrapper
 cd b2b-event-scrapper
 ```
 
